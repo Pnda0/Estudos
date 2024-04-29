@@ -5,4 +5,5 @@ for i in range(1, 10, 2):
 # Cria uma lista de 0 até o número escolhido como range
 print(list(range(10)))
 
+
 print(list(range(10, 100, 20)))
